@@ -1,12 +1,13 @@
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Prem Patel</h1>
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Prem Patel</h1><br><p align="right"> <img src="https://komarev.com/ghpvc/?username=prem-ium&label=Profile%20views&color=0e75b6&style=flat" alt="prem-ium" /> </p>
 A passionate of Web Development, Software Engineering, & Automation. 
 <br><br>
 <p>
 
 - 🔭 I’m currently working on [YouTube-Analytics-Discord-Bot](https://github.com/Prem-ium/youtube-analytics-bot)
 - 🤝 I’m looking for help with [Spotify-Wrapped-365](https://github.com/Prem-ium/Spotify-Wrapped-365)
-
+- 🌱 I’m currently further expanding my knowledge in **React & Angular**
+- ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
