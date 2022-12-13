@@ -56,12 +56,10 @@ src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" wid
 </p>
 </p>
 <br>
-<p align="center"> 
-   <h3 align="left">📈 My Github Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Prem-ium&show_icons=true&theme=dark" alt="prem-ium"/> 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-ium&theme=dark" alt="prem-ium" /></p>
-</p>
-
+<div markdown="1" style="display: flex;">
+  <h3 align="left">📈 My Github Stats:</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prem-ium&show_icons=true&theme=dark" alt="prem-ium"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-ium&theme=dark" alt="prem-ium" /></p>
+</div>
 <br>
 
 <!--**Prem-ium/Prem-ium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
