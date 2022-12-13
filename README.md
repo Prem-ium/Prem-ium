@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Prem Patel</h1><br><p align="right"> <img src="https://komarev.com/ghpvc/?username=prem-ium&label=Profile%20views&color=0e75b6&style=flat" alt="prem-ium" /> </p>
-A passionate of Web Development, Software Engineering, & Automation. 
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Prem-ium (Prem Patel)</h1><br><p align="right"> <img src="https://komarev.com/ghpvc/?username=prem-ium&label=Profile%20views&color=0e75b6&style=flat" alt="prem-ium" /> </p>
+A developer passionate about Web Development, Software Engineering, & Web Automation.
 <br><br>
 <p>
 
@@ -57,7 +57,7 @@ src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" wid
 </p>
 <br>
 <p align="center"> 
-   <h3 align="left">My Stats:</h3>
+   <h3 align="left">📈 My Github Stats:</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Prem-ium&show_icons=true&theme=dark" alt="prem-ium"/> 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prem-ium&theme=dark" alt="prem-ium" /></p>
 </p>
