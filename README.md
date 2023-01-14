@@ -58,7 +58,7 @@ src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" wid
 <br>
 <div markdown="1" style="display: flex;">
   <h3 align="left">📈 My Github Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Prem-ium&show_icons=true&theme=dark" alt="prem-ium"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-ium&theme=dark" alt="prem-ium" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=prem-ium&show_icons=true&theme=dark" alt="prem-ium"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-ium&theme=dark" alt="prem-ium" /></p>
 </div>
 <br>
 
