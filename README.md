@@ -4,8 +4,8 @@ A developer passionate about Web Development, Software Engineering, & Web Automa
 <br><br>
 <p>
 
-- 🔭 I’m currently working on [YouTube-Analytics-Discord-Bot](https://github.com/Prem-ium/youtube-analytics-bot)
-- 🤝 I’m looking for help with [Spotify-Wrapped-365](https://github.com/Prem-ium/Spotify-Wrapped-365)
+- 🔭 I’m currently working on my [YouTube Analytics Discord Bot](https://github.com/Prem-ium/youtube-analytics-bot) & [Stock Trading Automation](https://github.com/Prem-ium/Auto-StockTrader) repositories
+- 🤝 I’m looking for help with [Spotify Wrapped 365](https://github.com/Prem-ium/Spotify-Wrapped-365)
 - 🌱 I’m currently further expanding my knowledge in **React & Angular**
 - ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**
 <br>
