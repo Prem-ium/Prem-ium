@@ -62,4 +62,6 @@ src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" wid
 </div>
 <br>
 
+![Metrics](/github-metrics.svg/)
+
 <!--**Prem-ium/Prem-ium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
