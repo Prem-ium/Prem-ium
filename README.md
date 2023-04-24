@@ -9,14 +9,11 @@
 </p>
 
 <div style="padding-left: 20px;">
-    <details open>
-        <summary><h3>🤝 Seeking Employment Opportunities</h3></summary>
-            <p align="center"> 📫 <b>Let's get in touch</b></p>
-            <p> ✉ Shoot me an email at **premiumcspatel [at] gmail.com** (No spam or marketing please!)</p>
-    </details>
+<h3>🤝 Seeking Employment Opportunities</h3>
+<h4> 📫 <b>Let's get in touch</b></h4>
+<p> ✉ Shoot me an email at ``**premiumcspatel [at] gmail.com**`` (No spam or marketing please!)</p>
+
 </div>
-
-
 
 <br>
 <details open> <summary><h3>🚀 About Me</h3></summary>
