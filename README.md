@@ -2,27 +2,32 @@
         src="https://komarev.com/ghpvc/?username=prem-ium&label=Profile%20views&color=0e75b6&style=flat"
         alt="prem-ium" /></p>
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif"
-        width="40px">, I'm Prem-ium (Prem Patel)</h1><br>
+        width="40px">, I'm Prem-ium (Prem Patel)</h1><h3 align="center">Premium Software Solutions</h3><br>
 <p align="right"> <a href="https://www.buymeacoffee.com/prem.ium" target="_blank">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"
-            alt="Buy Me A Coffee">
-    </a>
-    <a href="mailto:premiumcspatel@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+    <a href="mailto:premiumcspatel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
-</a>
+
+<div style="padding-left: 20px;">
+    <details open>
+        <summary><h3>🤝 Seeking Employment Opportunities</h3></summary>
+            <p align="center"> 📫 <b>Let's get in touch</b></p>
+            <p> ✉ Shoot me an email at **premiumcspatel [at] gmail.com** (No spam or marketing please!)</p>
+    </details>
+</div>
 
 
-A developer passionate about Web Development, Software Engineering, & Web Automation.
-<br><br>
-<p>
 
-- 🔭 I’m currently working on my [YouTube Analytics Discord Bot](https://github.com/Prem-ium/youtube-analytics-bot) & [Stock Trading Automation](https://github.com/Prem-ium/Auto-StockTrader) repositories
-- 🤝 I’m looking for help with [Spotify Wrapped 365](https://github.com/Prem-ium/Spotify-Wrapped-365)
+<br>
+<details open> <summary><h3>🚀 About Me</h3></summary>
+
+- 🔭 Currently actively developing my [YouTube Analytics Discord Bot](https://github.com/Prem-ium/youtube-analytics-bot) & [Stock Trading Automation](https://github.com/Prem-ium/Auto-StockTrader) project(s) repository.
+- 🤝 I’m looking for assistance with [Spotify Wrapped 365](https://github.com/Prem-ium/Spotify-Wrapped-365)
 - 🌱 I’m currently further expanding my knowledge in **React & Angular**
 - ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**
 <br>
-<details>
+</details>
+<details open>
   <summary><h3>🔧 Languages & Tools I Primarily Use</h3></summary>
   
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -62,9 +67,14 @@ A developer passionate about Web Development, Software Engineering, & Web Automa
     <h3 align="left">📈 My Github Stats:</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=prem-ium&show_icons=true&theme=dark"
         alt="prem-ium" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-ium&theme=dark"
-        alt="prem-ium" /></p><img src="/github-metrics.svg" alt="Metrics" width="45%"><img align="top"
-        src="metrics.plugin.stargazers.svg" alt="Stargazers"><img align="top" width="45%" src="metrics.plugin.repositories.pinned.svg" alt="repos"/>
+        alt="prem-ium" /></p>
+    <details>
+        <summary><h3>📌More Stats</h3></summary>
+        <img src="/github-metrics.svg" alt="Metrics" width="45%">
+        <img align="top"src="metrics.plugin.stargazers.svg" alt="Stargazers"><img align="top" width="45%" src="metrics.plugin.repositories.pinned.svg" alt="repos"/>
+        </details>
 </div>
+
 <br>
 
 
