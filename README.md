@@ -2,7 +2,7 @@
         src="https://komarev.com/ghpvc/?username=prem-ium&label=Profile%20views&color=0e75b6&style=flat"
         alt="prem-ium" /></p>
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif"
-        width="40px">, I'm Prem-ium (Prem Patel)</h1><h3 align="center">Premium Software Solutions</h3><br>
+        width="40px">, I'm Prem-ium (Prem Patel)<h3 align="center">Premium Software Solutions</h3></h1><br>
 <p align="right"> <a href="https://www.buymeacoffee.com/prem.ium" target="_blank">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
     <a href="mailto:premiumcspatel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -11,7 +11,7 @@
 <div style="padding-left: 20px;">
 <h3>🤝 Seeking Employment Opportunities</h3>
 <h4> 📫 <b>Let's get in touch</b></h4>
-<p> ✉ Shoot me an email at ``**premiumcspatel [at] gmail.com**`` (No spam or marketing please!)</p>
+<p> ✉ Email me at: <a href="mailto:premiumcspatel@gmail.com"><strong>premiumcspatel [at] gmail.com</strong></a> (No spam or marketing please!)</p>
 
 </div>
 
