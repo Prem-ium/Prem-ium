@@ -63,7 +63,7 @@ A developer passionate about Web Development, Software Engineering, & Web Automa
     <img src="https://github-readme-stats.vercel.app/api?username=prem-ium&show_icons=true&theme=dark"
         alt="prem-ium" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-ium&theme=dark"
         alt="prem-ium" /></p><img src="/github-metrics.svg" alt="Metrics" width="45%"><img align="top"
-        src="metrics.plugin.stargazers.svg" alt="Stargazers">
+        src="metrics.plugin.stargazers.svg" alt="Stargazers"><img align="top" width="45%" src="metrics.plugin.repositories.pinned.svg" alt="repos"/>
 </div>
 <br>
 
