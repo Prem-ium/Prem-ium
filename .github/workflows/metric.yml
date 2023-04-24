@@ -14,9 +14,18 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.stargazers.svg
           base: ""
           plugin_stargazers: yes
+      - name: Generate Pinned Repositories Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.repositories.pinned.svg
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 2
