@@ -67,8 +67,8 @@
         alt="prem-ium" /></p>
     <details>
         <summary><h3>📌More Stats</h3></summary>
-        <img src="/github-metrics.svg" alt="Metrics" width="45%">
-        <img align="top"src="metrics.plugin.stargazers.svg" alt="Stargazers"><img align="top" width="45%" src="metrics.plugin.repositories.pinned.svg" alt="repos"/>
+        <img src="/github-metrics.svg" alt="Metrics">
+        <img align="top"src="metrics.plugin.stargazers.svg" alt="Stargazers"><img align="top" src="metrics.plugin.repositories.pinned.svg" alt="repos"/>
         </details>
 </div>
 
