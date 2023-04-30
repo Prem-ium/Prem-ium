@@ -29,3 +29,13 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_pinned: 2
+      - name: Generate Mildly Interesting Facts Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: America/New_York
