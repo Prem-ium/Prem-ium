@@ -65,11 +65,16 @@
     <img src="https://github-readme-stats.vercel.app/api?username=prem-ium&show_icons=true&theme=dark"
         alt="prem-ium" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-ium&theme=dark"
         alt="prem-ium" /></p>
-    <details>
-        <summary><h3>📌More Stats</h3></summary>
-        <img src="/github-metrics.svg" alt="Metrics">
-        <img align="top"src="metrics.plugin.stargazers.svg" alt="Stargazers"><img align="top" src="metrics.plugin.repositories.pinned.svg" alt="repos"/>
-        </details>
+<details>
+  <summary><h3>📌More Stats</h3></summary>
+  <div style="display: flex; flex-wrap: wrap;">
+  <img style="margin-left: 10px; margin-right: 10px;" align="top" src="metrics.plugin.repositories.pinned.svg" alt="repos"/>
+    <img style="margin-left: 10px; margin-right: 10px;" align="top" src="metrics.plugin.stargazers.svg" alt="Stargazers">
+    <img style="margin-left: 10px; margin-right: 10px;" align="top" src="metrics.plugin.habits.facts.svg" alt="habits">
+    <img src="/github-metrics.svg" alt="Metrics">
+  </div>
+</details>
+
 </div>
 
 <br>
