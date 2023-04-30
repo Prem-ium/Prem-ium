@@ -68,8 +68,8 @@
 <details>
   <summary><h3>📌More Stats</h3></summary>
   <div style="display: flex; flex-wrap: wrap;">
-    <img style="margin-left: 10px; margin-right: 10px;" align="top" src="metrics.plugin.stargazers.svg" alt="Stargazers">
     <img style="margin-left: 10px; margin-right: 10px;" align="top" src="metrics.plugin.habits.facts.svg" alt="habits">
+    <img style="margin-left: 10px; margin-right: 10px;" align="top" src="metrics.plugin.stargazers.svg" alt="Stargazers">
     <img style="margin-left: 10px; margin-right: 10px;" align="top" src="metrics.plugin.repositories.pinned.svg" alt="repos"/>
     <img src="/github-metrics.svg" alt="Metrics">
   </div>
