@@ -71,6 +71,34 @@
         alt="prem-ium" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-ium&theme=dark"
         alt="prem-ium" /></p>
 </details>
+
+<details open>
+    <summary>
+        <h3>💻 Some of my Favorite Projects</h3>
+    </summary>
+    <div style="display: flex; flex-wrap: wrap;">
+        <h4>📱 iMock - Fake iMessage Chat Messages</h4>
+        <p>iMock is a website that allows users to create realistic fake Apple iMessage conversations. Developed using
+            TypeScript/JavaScript, HTML, and CSS, this project showcases technical proficiency and creativity in
+            front-end development. With an intuitive user interface and easy-to-use control panel, iMock makes it simple
+            to generate custom iMessage chat bubbles for any purpose.</p>
+        <a href="https://imock-imessage.netlify.app/" target="_blank">
+            <img src="https://i.imgur.com/lhHdLcF.png" alt="iMock - Fake iMessage Chat Messages" />
+        </a>
+    </div>
+    <div style="display: flex; flex-wrap: wrap;">
+        <h4>📊 YouTube Apprise - Analytics Bot</h4>
+        <p>A Discord bot that retrieves and outputs YouTube Analytics data. Developed using Python, this bot provides
+            analytical reports including views, watch-time, estimated revenue, CPM, ad-impressions, among with other
+            analytics. Features an easy setup through the Google Cloud Console, this bot makes it simple to access and
+            analyze your YouTube data. This project showcases my technical proficiency in developing bots communicating
+            efficiency with APIs & Google Cloud Console to deliver valuable analytical insights.</p>
+        <a href="https://github.com/Prem-ium/youtube-analytics-bot" target="_blank">
+            <img src="https://i.imgur.com/7lYRYzG.png" />
+        </a>
+    </div>
+</details>
+
 <details>
   <summary><h3>📌More Stats</h3></summary>
   <div style="display: flex; flex-wrap: wrap;">
