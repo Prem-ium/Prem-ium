@@ -22,7 +22,7 @@
 <br>
 <details open> <summary><h3>🚀 About Me</h3></summary>
 
-- 🔭 Currently actively developing my [YouTube Analytics Discord Bot](https://github.com/Prem-ium/youtube-analytics-bot) & [Stock Trading Automation](https://github.com/Prem-ium/Auto-StockTrader) project(s) repository.
+- 🔭 Currently actively developing my [YouTube Analytics](https://github.com/Prem-ium/youtube-analytics-bot) & [Trading Automation](https://github.com/Prem-ium/Auto-StockTrader) project repositories.
 - 🤝 I’m looking for assistance with [Spotify Wrapped 365](https://github.com/Prem-ium/Spotify-Wrapped-365)
 - 🌱 I’m currently further expanding my knowledge in **React & Angular**
 - ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**
