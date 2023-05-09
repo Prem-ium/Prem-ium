@@ -65,10 +65,12 @@
   
 <br>
 <div markdown="1" style="display: flex;">
-    <h3 align="left">📈 My Github Stats:</h3>
+<details open>
+    <summary><h3 align="left">📈 My Github Stats:</h3></summary>
     <img src="https://github-readme-stats.vercel.app/api?username=prem-ium&show_icons=true&theme=dark"
         alt="prem-ium" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-ium&theme=dark"
         alt="prem-ium" /></p>
+</details>
 <details>
   <summary><h3>📌More Stats</h3></summary>
   <div style="display: flex; flex-wrap: wrap;">
