@@ -83,9 +83,11 @@
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
         
             
-<p>iMock is a website that allows users to create realistic fake Apple iMessage conversations. Developed using
+             
+<p><a href="https://imock-imessage.netlify.app/" target="_blank">iMock </a>is a website that allows users to create realistic fake Apple iMessage conversations. Developed using
             TypeScript/JavaScript, HTML, and CSS, this project showcases technical proficiency and creativity in
             front-end development. With an intuitive user interface and easy-to-use control panel, iMock makes it simple
             to generate custom iMessage chat bubbles for any purpose.</p>
@@ -97,6 +99,9 @@
         <h4>📊 YouTube Apprise - Analytics Bot</h4>
             
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+            
             
 <p>A Discord bot that retrieves and outputs YouTube Analytics data. Developed using Python, this bot provides
             analytical reports including views, watch-time, estimated revenue, CPM, ad-impressions, among with other
