@@ -72,13 +72,20 @@
         alt="prem-ium" /></p>
 </details>
 
+
 <details>
     <summary>
         <h3>💻 Some of my Favorite Projects</h3>
     </summary>
     <div style="display: flex; flex-wrap: wrap;">
         <h4>📱 iMock - Fake iMessage Chat Messages</h4>
-        <p>iMock is a website that allows users to create realistic fake Apple iMessage conversations. Developed using
+            
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+        
+            
+<p>iMock is a website that allows users to create realistic fake Apple iMessage conversations. Developed using
             TypeScript/JavaScript, HTML, and CSS, this project showcases technical proficiency and creativity in
             front-end development. With an intuitive user interface and easy-to-use control panel, iMock makes it simple
             to generate custom iMessage chat bubbles for any purpose.</p>
@@ -88,7 +95,10 @@
     </div>
     <div style="display: flex; flex-wrap: wrap;">
         <h4>📊 YouTube Apprise - Analytics Bot</h4>
-        <p>A Discord bot that retrieves and outputs YouTube Analytics data. Developed using Python, this bot provides
+            
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+            
+<p>A Discord bot that retrieves and outputs YouTube Analytics data. Developed using Python, this bot provides
             analytical reports including views, watch-time, estimated revenue, CPM, ad-impressions, among with other
             analytics. Features an easy setup through the Google Cloud Console, this bot makes it simple to access and
             analyze your YouTube data. This project showcases my technical proficiency in developing bots communicating
@@ -98,6 +108,7 @@
         </a>
     </div>
 </details>
+
 
 <details>
   <summary><h3>📌More Stats</h3></summary>
