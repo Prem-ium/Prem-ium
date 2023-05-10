@@ -72,7 +72,7 @@
         alt="prem-ium" /></p>
 </details>
 
-<details open>
+<details>
     <summary>
         <h3>💻 Some of my Favorite Projects</h3>
     </summary>
