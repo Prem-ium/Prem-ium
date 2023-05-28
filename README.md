@@ -40,17 +40,6 @@
     <summary>
         <h3>💻 Notable Projects I've Built</h3>
     </summary>
-      <h4>🧠 Real-Time Emotion Recognition Metahuman 🧠</h4>
-            
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-<p>This project features a Metahuman integrated with a facial recognition system capable of detecting facial expressions and predicting human emotions in real-time. The virtual Metahuman, created using Unreal Engine, utilizes machine learning models trained on collected data to mimic the user's most commonly detected emotion. The applications of this project are extensive, spanning sectors such as job training, therapy, education, and more, as the Metahuman can respond dynamically to changes in human emotional states.</p>
-<a href="https://github.com/Prem-ium/Metahuman-Emotion-Recognition" target="_blank">
-<img src="https://i.imgur.com/h9ztzp0.png" alt="Real-Time Emotion Recognition Metahuman" />
-</a>
-</div>  
     <h4>🧠 Real-Time Emotion Recognition Metahuman 🧠</h4>
             
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
