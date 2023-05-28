@@ -22,8 +22,8 @@
 <br>
 <details open> <summary><h3>🚀 About Me</h3></summary>
 
-- 🔭 Currently actively developing my [YouTube Analytics](https://github.com/Prem-ium/youtube-analytics-bot) & [Trading Automation](https://github.com/Prem-ium/Auto-StockTrader) project repositories.
-- 🤝 I’m looking for assistance with [Spotify Wrapped 365](https://github.com/Prem-ium/Spotify-Wrapped-365)
+- 🔭 Currently actively developing my [YouTube Analytics](https://github.com/Prem-ium/youtube-analytics-bot) & [Brokerage Trading Automation](https://github.com/Prem-ium/Auto-StockTrader) projects.
+- 🤝 I’m looking for assistance with my [Spotify Wrapped 365](https://github.com/Prem-ium/Spotify-Wrapped-365) repository. 
 - 🌱 I’m currently further expanding my knowledge in **React & Angular**
 - ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**
 <br>
@@ -75,8 +75,22 @@
 
 <details>
     <summary>
-        <h3>💻 Some of my Favorite Projects</h3>
+        <h3>💻 Notable Projects I've Built</h3>
     </summary>
+    <div style="display: flex; flex-wrap: wrap;">
+        <h4>📈🚀 Automating Stock Brokerage Orders</h4>
+            
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+        
+          
+<p>This repository showcases my work on automating stock orders across multiple brokerages. The project offers a comprehensive set of features that enable users to automate brokerage orders across multiple stock tickers simultaneously. It supports various types of accounts such as Individual, IRA, etc., and is compatible with popular brokerages like Robinhood, Fidelity, Schwab, and more.</p>
+        <a href="https://github.com/Prem-ium/Auto-StockTrader" target="_blank">
+            <img src="https://i.imgur.com/aEL0f4P.png" />
+        </a>
+</div>
     <div style="display: flex; flex-wrap: wrap;">
         <h4>📱 iMock - Fake iMessage Chat Messages</h4>
             
