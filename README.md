@@ -73,12 +73,14 @@
 </details>
 
 
+
 <details>
     <summary>
         <h3>💻 Notable Projects I've Built</h3>
     </summary>
-    <div style="display: flex; flex-wrap: wrap;">
-        <h4>📈🚀 Automating Stock Brokerage Orders</h4>
+    
+   <div style="display: flex; flex-wrap: wrap;">
+        <h4>📈 Automating Stock Brokerage Orders 🚀</h4>
             
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -88,45 +90,42 @@
           
 <p>This repository showcases my work on automating stock orders across multiple brokerages. The project offers a comprehensive set of features that enable users to automate brokerage orders across multiple stock tickers simultaneously. It supports various types of accounts such as Individual, IRA, etc., and is compatible with popular brokerages like Robinhood, Fidelity, Schwab, and more.</p>
         <a href="https://github.com/Prem-ium/Auto-StockTrader" target="_blank">
-            <img src="https://i.imgur.com/aEL0f4P.png" />
+            <img src="https://i.imgur.com/aEL0f4P.png" alt="Automating Stock Brokerage Orders" />
         </a>
-</div>
-    <div style="display: flex; flex-wrap: wrap;">
-        <h4>📱 iMock - Fake iMessage Chat Messages</h4>
+    </div>
+    
+<div style="display: flex; flex-wrap: wrap;">
+<h4>📱 iMock - Fake iMessage Chat Messages</h4>
             
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
         
             
              
-<p><a href="https://imock-imessage.netlify.app/" target="_blank">iMock </a>is a website that allows users to create realistic fake Apple iMessage conversations. Developed using
-            TypeScript/JavaScript, HTML, and CSS, this project showcases technical proficiency and creativity in
-            front-end development. With an intuitive user interface and easy-to-use control panel, iMock makes it simple
-            to generate custom iMessage chat bubbles for any purpose.</p>
+<p><a href="https://imock-imessage.netlify.app/" target="_blank">iMock</a> is a website that allows users to create realistic fake Apple iMessage conversations. Developed using TypeScript/JavaScript, HTML, and CSS, this project showcases my technical proficiency and creativity in front-end development. With an intuitive user interface and an easy-to-use control panel, iMock makes it simple to generate custom iMessage chat bubbles for any purpose.</p>
         <a href="https://imock-imessage.netlify.app/" target="_blank">
             <img src="https://i.imgur.com/lhHdLcF.png" alt="iMock - Fake iMessage Chat Messages" />
         </a>
     </div>
-    <div style="display: flex; flex-wrap: wrap;">
-        <h4>📊 YouTube Apprise - Analytics Bot</h4>
+    
+<div style="display: flex; flex-wrap: wrap;">
+<h4>📊 YouTube Apprise - Analytics Bot</h4>
             
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
             
             
-<p>A Discord bot that retrieves and outputs YouTube Analytics data. Developed using Python, this bot provides
-            analytical reports including views, watch-time, estimated revenue, CPM, ad-impressions, among with other
-            analytics. Features an easy setup through the Google Cloud Console, this bot makes it simple to access and
-            analyze your YouTube data. This project showcases my technical proficiency in developing bots communicating
-            efficiency with APIs & Google Cloud Console to deliver valuable analytical insights.</p>
+<p>A Discord bot that retrieves and outputs YouTube Analytics data. Developed using Python, this bot provides analytical reports including views, watch-time, estimated revenue, CPM, ad-impressions, among other analytics. With an easy setup through the Google Cloud Console, this bot makes it simple to access and analyze your YouTube data. This project showcases my technical proficiency in developing bots, efficient API communication, and integration with the Google Cloud Console to deliver valuable analytical insights.</p>
         <a href="https://github.com/Prem-ium/youtube-analytics-bot" target="_blank">
-            <img src="https://i.imgur.com/7lYRYzG.png" />
+            <img src="https://i.imgur.com/7lYRYzG.png" alt="YouTube Apprise - Analytics Bot" />
         </a>
     </div>
 </details>
+
 
 
 <details>
