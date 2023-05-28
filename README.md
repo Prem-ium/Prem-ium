@@ -40,7 +40,9 @@
     <summary>
         <h3>💻 Notable Projects I've Built</h3>
     </summary>
-    <h4>🧠 Real-Time Emotion Recognition Metahuman 🧠</h4>
+        <p>Click on images to open project repositories.</p>
+   <div style="display: flex; flex-wrap: wrap;">
+   <h4>🧠 Real-Time Emotion Recognition Metahuman 🧠</h4>
             
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -51,8 +53,6 @@
 <a href="https://github.com/Prem-ium/Metahuman-Emotion-Recognition" target="_blank">
 <img src="https://i.imgur.com/h9ztzp0.png" alt="Real-Time Emotion Recognition Metahuman" />
 </a>
-</div>
-   <div style="display: flex; flex-wrap: wrap;">
         <h4>📈 Automating Stock Brokerage Orders 🚀</h4>
             
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
