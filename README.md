@@ -23,7 +23,7 @@
 <details open> <summary><h3>🚀 About Me</h3></summary>
 
 - 🔭 Currently actively developing my [YouTube Analytics](https://github.com/Prem-ium/youtube-analytics-bot) & [Brokerage Trading Automation](https://github.com/Prem-ium/Auto-StockTrader) projects.
-- 🤝 I’m looking for assistance with my [Spotify Wrapped 365](https://github.com/Prem-ium/Spotify-Wrapped-365) repository. 
+- 🤝 I’m looking for assistance with my [Spotify Wrapped 365](https://github.com/Prem-ium/Spotify-Wrapped-365) repository.
 - 🌱 I’m currently further expanding my knowledge in **React & Angular**
 - ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**
 <br>
@@ -61,8 +61,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
-  
-  
+
 <br>
 <div markdown="1" style="display: flex;">
 <details open>
@@ -72,13 +71,33 @@
         alt="prem-ium" /></p>
 </details>
 
-
-
 <details>
     <summary>
         <h3>💻 Notable Projects I've Built</h3>
     </summary>
-    
+      <h4>🧠 Real-Time Emotion Recognition Metahuman 🧠</h4>
+            
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+<p>This project features a Metahuman integrated with a facial recognition system capable of detecting facial expressions and predicting human emotions in real-time. The virtual Metahuman, created using Unreal Engine, utilizes machine learning models trained on collected data to mimic the user's most commonly detected emotion. The applications of this project are extensive, spanning sectors such as job training, therapy, education, and more, as the Metahuman can respond dynamically to changes in human emotional states.</p>
+<a href="https://github.com/Prem-ium/Metahuman-Emotion-Recognition" target="_blank">
+<img src="https://i.imgur.com/h9ztzp0.png" alt="Real-Time Emotion Recognition Metahuman" />
+</a>
+</div>  
+    <h4>🧠 Real-Time Emotion Recognition Metahuman 🧠</h4>
+            
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+<p>This project features a Metahuman integrated with a facial recognition system capable of detecting facial expressions and predicting human emotions in real-time. The virtual Metahuman, created using Unreal Engine, utilizes machine learning models trained on collected data to mimic the user's most commonly detected emotion. The applications of this project are extensive, spanning sectors such as job training, therapy, education, and more, as the Metahuman can respond dynamically to changes in human emotional states.</p>
+<a href="https://github.com/Prem-ium/Metahuman-Emotion-Recognition" target="_blank">
+<img src="https://i.imgur.com/h9ztzp0.png" alt="Real-Time Emotion Recognition Metahuman" />
+</a>
+</div>
    <div style="display: flex; flex-wrap: wrap;">
         <h4>📈 Automating Stock Brokerage Orders 🚀</h4>
             
@@ -126,8 +145,6 @@
     </div>
 </details>
 
-
-
 <details>
   <summary><h3>📌More Stats</h3></summary>
   <div style="display: flex; flex-wrap: wrap;">
@@ -143,6 +160,5 @@
 </details>
 
 <br>
-
 
 <!--**Prem-ium/Prem-ium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
