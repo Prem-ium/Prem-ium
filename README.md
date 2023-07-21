@@ -25,7 +25,7 @@
 - 🎓 I graduated with a Bachelor of Science in Computer Science w/ Magna Cum Laude honors.
 - 🔭 Currently actively developing my [YouTube Analytics](https://github.com/Prem-ium/youtube-analytics-bot) & [Brokerage Trading Automation](https://github.com/Prem-ium/Auto-StockTrader) projects.
 - 🤝 I’m looking for assistance with my [Spotify Wrapped 365](https://github.com/Prem-ium/Spotify-Wrapped-365) repository.
-- 🌱 I’m currently further expanding my knowledge in **Rust**
+- 🌱 I’m currently further expanding my knowledge in **Ruby**
 - ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**
 
 </details>
