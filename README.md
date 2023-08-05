@@ -137,14 +137,22 @@
 <details>
   <summary><h3>📌More Stats</h3></summary>
   <div style="display: flex; flex-wrap: wrap;">
-          <h4>🎯 Metrics</h4>
+          <details open>
+          <summary><h4>🎯 Metrics</h4></summary>
                 <img src="/github-metrics.svg" alt="Metrics">
-          <h4>💫 Repo Star Data</h4>
+          </details>
+          <details>
+          <summary><h4>💫 Repo Star Data</h4></summary>
                 <img style="margin-left: 10px; margin-right: 10px;" align="top" src="metrics.plugin.stargazers.svg" alt="Stargazers">
-          <h4>📝 Habits</h4>
+          </details>
+          <details>
+          <summary><h4>📝 Habits</h4></summary>
                 <img style="margin-left: 10px; margin-right: 10px;" align="top" src="metrics.plugin.habits.facts.svg" alt="habits">
-          <h4>📂 Featured Repos</h4>
+          </details>
+          <details>
+          <summary><h4>📂 Featured Repos</h4></summary>
                 <img style="margin-left: 10px; margin-right: 10px;" align="top" src="metrics.plugin.repositories.pinned.svg" alt="repos"/>
+          </details>
   </div>
 </details>
 
