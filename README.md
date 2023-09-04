@@ -1,7 +1,7 @@
 <p align="right"><img align="right"
         src="https://komarev.com/ghpvc/?username=prem-ium&label=Profile%20views&color=0e75b6&style=flat"
         alt="prem-ium" /></p>
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif"
+<h1 align="center">Hi there <img src="https://github.com/Prem-ium/Prem-ium/blob/main/assets/images/Hi.gif"
         width="40px">, I'm Prem-ium (Prem Patel)<h3 align="center">🧠 Premium Software Engineer </h3></h1>
 <p align="right"> <a href="https://www.linkedin.com/in/premiumpatel/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="mailto:premiumcspatel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://github.com/sponsors/Prem-ium" target="_blank">
