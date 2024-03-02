@@ -12,7 +12,7 @@
 </p>
 
 <div style="padding-left: 20px;">
-        <h3>🤝 Seeking Employment Opportunities</h3>
+        <h3>🤝 Open to Opportunities</h3>
 <details open><summary>📫 <b>Let's get in touch</b></summary>
 <p> 🎯 Connect with me on <a href="https://www.linkedin.com/in/premiumpatel/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
