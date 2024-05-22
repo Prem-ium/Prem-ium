@@ -14,6 +14,7 @@
 <div style="padding-left: 20px;">
         <h3>🤝 Open to Opportunities</h3>
 <details open><summary>📫 <b>Let's get in touch</b></summary>
+        <p>I am available for commissions to implement specific features in my existing projects or to create custom automation solutions. Feel free to reach out to me via LinkedIn or email.</p>
 <p> 🎯 Connect with me on <a href="https://www.linkedin.com/in/premiumpatel/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
 <p> ✉ Email me at: <a href="mailto:premiumcspatel@gmail.com"><strong>premiumcspatel [at] gmail.com</strong></a> (No spam or marketing please!)</p>
@@ -23,9 +24,9 @@
 <details open> <summary><h3>🚀 About Me</h3></summary>
 
 - 🎓 I graduated with a Bachelor of Science in Computer Science w/ Magna Cum Laude honors.
-- 🔭 Currently actively developing my [YouTube Analytics](https://github.com/Prem-ium/youtube-analytics-bot) & [Brokerage Trading Automation](https://github.com/Prem-ium/Auto-StockTrader) projects.
+<!--- - 🔭 Currently actively developing my [YouTube Analytics](https://github.com/Prem-ium/youtube-analytics-bot) & [Brokerage Trading Automation](https://github.com/Prem-ium/Auto-StockTrader) projects.-->
 <!--- 🤝 I’m looking for assistance with my [Spotify Wrapped 365](https://github.com/Prem-ium/Spotify-Wrapped-365) repository.-->
-- 🌱 I’m currently further expanding my knowledge in **Ruby**
+- 🌱 I’m currently interested in learning about **Data Analysis & Visualization**
 - ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**
 
 </details>
