@@ -14,10 +14,11 @@
 <div style="padding-left: 20px;">
         <h3>🤝 Open to Opportunities</h3>
 <details open><summary>📫 <b>Let's get in touch</b></summary>
-        <p>I am available for commissions to implement specific features in my existing projects or to create custom automation solutions. Feel free to reach out to me via LinkedIn or email.</p>
+Want to request a feature on an existing project? Or create a new automation project? I am available for commissions to implement specific features in my existing projects or to create custom web automation solutions.  Feel free to reach out to me via LinkedIn or email for an estimate. (Please contact me via email only if interested in a commission; redirect all project issues to the repository issues page.)
+
 <p> 🎯 Connect with me on <a href="https://www.linkedin.com/in/premiumpatel/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
-<p> ✉ Email me at: <a href="mailto:premiumcspatel@gmail.com"><strong>premiumcspatel [at] gmail.com</strong></a> (No spam or marketing please!)</p>
+<p> ✉ Email me at: <a href="mailto:premiumcspatel@gmail.com"><strong>premiumcspatel [at] gmail.com</strong></a> (No spam please!)</p>
         </details>
 </div>
 
