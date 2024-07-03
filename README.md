@@ -7,14 +7,14 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="mailto:premiumcspatel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://github.com/sponsors/Prem-ium" target="_blank">
         <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AA" alt="Github Sponsor"/></a><a href="https://www.buymeacoffee.com/prem.ium" target="_blank">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
-    
-        
 </p>
 
 <div style="padding-left: 20px;">
         <h3>🤝 Open to Opportunities</h3>
 <details open><summary>📫 <b>Let's get in touch</b></summary>
-Want to request a feature on an existing project? Or create a new automation project? I am available for commissions to implement specific features in my existing projects or to create custom web automation solutions.  Feel free to reach out to me via LinkedIn or email for an estimate. (Please contact me via email only if interested in a commission; redirect all project issues to the repository issues page.)
+Want to request a feature on an existing project? Or create a new automation project? I am available for commissions to implement specific features in my existing projects or to create custom web automation solutions. 
+
+Feel free to reach out to me via LinkedIn or email for an estimate. **Please contact me via email <u>only</u> if interested in a commission; redirect any project issues/bugs to the respective repository issues page.**
 
 <p> 🎯 Connect with me on <a href="https://www.linkedin.com/in/premiumpatel/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
