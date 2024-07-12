@@ -1,35 +1,56 @@
-<p align="right"><img align="right"
-        src="https://komarev.com/ghpvc/?username=prem-ium&label=Profile%20views&color=0e75b6&style=flat"
-        alt="prem-ium" /></p>
-<h1 align="center">Hi there <img src="https://github.com/Prem-ium/Prem-ium/blob/main/assets/images/Hi.gif"
-        width="40px">, I'm Prem-ium (Prem Patel)<h3 align="center">🧠 Premium Software Engineer </h3></h1>
-<p align="right"> <a href="https://www.linkedin.com/in/premiumpatel/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="mailto:premiumcspatel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://github.com/sponsors/Prem-ium" target="_blank">
-        <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AA" alt="Github Sponsor"/></a><a href="https://www.buymeacoffee.com/prem.ium" target="_blank">
-        <!--<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>-->
-</p>
-
-<div style="padding-left: 20px;">
-        <h3>🤝 Open to Opportunities</h3>
-<details open><summary>📫 <b>Let's get in touch</b></summary>
-Want to request a feature on an existing project? Or create a new automation project? I am available for commissions to implement specific features in my existing projects or to create custom web automation solutions. 
-
-Feel free to reach out to me via LinkedIn or email for an estimate. **Please contact me via email <u>only</u> if interested in a commission; redirect any project issues/bugs to the respective repository issues page.**
-
-<p> 🎯 Connect with me on <a href="https://www.linkedin.com/in/premiumpatel/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></p>
-<p> ✉ Email me at: <a href="mailto:premiumcspatel@gmail.com"><strong>premiumcspatel [at] gmail.com</strong></a> (No spam please!)</p>
-        </details>
+<div>
+        <p align="left"><img src="https://komarev.com/ghpvc/?username=prem-ium&label=Profile%20views&color=0e75b6&style=flat" alt="prem-ium" /></p>
+        <p align="right"><a href="https://github.com/sponsors/Prem-ium" target="_blank"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AA" alt="Github Sponsor"/></a></p>
 </div>
+        
+<h1 align="center">Hi there <img src="https://github.com/Prem-ium/Prem-ium/blob/main/assets/images/Hi.gif" width="40px">,
+        I'm <i>Prem-ium</i> (Prem Patel)
+        <h4 align="center">
+                🧠 Premium Software Engineer 
+        </h4>
+</h1>
+        
+<!--<p align="left"> 
+        <a href="https://www.linkedin.com/in/premiumpatel/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="mailto:premiumcspatel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+        <a href="https://github.com/sponsors/Prem-ium" target="_blank">
+        <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AA" alt="Github Sponsor"/></a><a href="https://www.buymeacoffee.com/prem.ium" target="_blank">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+</p>-->
 
 <details open> <summary><h3>🚀 About Me</h3></summary>
 
 - 🎓 I graduated with a Bachelor of Science in Computer Science w/ Magna Cum Laude honors.
-<!--- - 🔭 Currently actively developing my [YouTube Analytics](https://github.com/Prem-ium/youtube-analytics-bot) & [Brokerage Trading Automation](https://github.com/Prem-ium/Auto-StockTrader) projects.-->
-<!--- 🤝 I’m looking for assistance with my [Spotify Wrapped 365](https://github.com/Prem-ium/Spotify-Wrapped-365) repository.-->
-- 🌱 I’m currently interested in learning about **Data Analysis & Visualization**
-- ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**
+- 🌱 I’m currently interested in learning about **Data Analysis & Visualization**.
+- ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**.
 
+</details>
+
+<div style="padding-left: 20px;">
+<details open> <summary style="font-size: 24px;"><h2>🤝 Open to Opportunities - 📫 <b>Let's get in touch</b></h2></summary>
+<div style="margin: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9; text-align: center;">
+    <h2 style="font-size: 18px; font-weight: bold;">
+        📢 Available for <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="vertical-align: middle;"> Project Commissions!
+    </h2>
+<p>Need custom Python solutions? I craft bespoke scripts and projects tailored to your needs, from automation to data processing & more. Reach out via email for inquiries or estimates on commissions.</p>
+    <p>
+        📧 Email Me @ 
+        <a href="mailto:premiumcspatel@gmail.com" style="display: inline-block; margin: 10px; padding: 10px 20px; color: white; background-color: #007BFF; text-decoration: none; border-radius: 5px; font-size: 16px;">
+            <strong>premiumcspatel[at] gmail.com</strong>
+        </a>
+    </p>
+    <p>
+        <a href="mailto:premiumcspatel@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+        </a>
+    </p>
+    <p style="font-size: 12px;">Please contact me via email <u>only</u> if interested in a commission; redirect any project issues/bugs to the respective repository issues page.</p>
+</div>
+<h2 style="font-size: 18px; font-weight: bold;">
+        🎯 Connect with me on <a href="https://www.linkedin.com/in/premiumpatel/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    </h2> 
 </details>
 
 <div markdown="1" style="display: flex;">
