@@ -31,7 +31,7 @@
 <details open> <summary style="font-size: 24px;"><h2>🤝 Open to Opportunities - 📫 <b>Let's get in touch</b></h2></summary>
 <div style="margin: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9; text-align: center;">
     <h2 style="font-size: 18px; font-weight: bold;">
-        📢 Available for <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="vertical-align: middle;"> Project Commissions!
+        📢 Available for <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="vertical-align: middle;" height="25" alt="Python"> Project Commissions!
     </h2>
 <p>Need custom Python solutions? I craft bespoke scripts and projects tailored to your needs, from automation to data processing & more. Reach out via email for inquiries or estimates on commissions.</p>
     <p>
