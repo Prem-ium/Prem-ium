@@ -22,11 +22,11 @@
 <details open> <summary><h3>🚀 About Me</h3></summary>
 
 - 🎓 I graduated with a Bachelor of Science in Computer Science w/ Magna Cum Laude honors.
-- 🌱 I’m currently interested in learning about **Data Analysis & Visualization**.
+- 🌱 I’m currently interested in working on **Data Analysis & Visualization**.
 - ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**.
 
 </details>
-
+<!--
 <div style="padding-left: 20px;">
 <details open> <summary style="font-size: 24px;"><h2>🤝 Open to Opportunities - 📫 <b>Let's get in touch</b></h2></summary>
 <div style="margin: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9; text-align: center;">
@@ -52,6 +52,7 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     </h2> 
 </details>
+-->
 
 <div markdown="1" style="display: flex;">
 <details open>
