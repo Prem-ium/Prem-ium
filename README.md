@@ -3,13 +3,15 @@
         <p align="right"><a href="https://github.com/sponsors/Prem-ium" target="_blank"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AA" alt="Github Sponsor"/></a></p>
 </div>
         
-<h1 align="center">Hi there <img src="https://github.com/Prem-ium/Prem-ium/blob/main/assets/images/Hi.gif" width="40px">,
-        I'm <i>Prem-ium</i> (Prem Patel)
-        <h4 align="center">
-                🧠 Premium Software Engineer 
-        </h4>
-</h1>
-        
+<h1 align="center">Hi there <img src="https://github.com/Prem-ium/Prem-ium/blob/main/assets/images/Hi.gif" width="40px">, I'm <i>Prem-ium</i> (Prem Patel)</h1>
+<h4 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=1000&pause=500&color=ffffff&width=435&lines=🧠+Premium+Software+Engineer;🌟+Innovative+Problem+Solver;📈+Data+Science+Enthusiast;🔍+Analytical+Thinker;⚡+Freelance+Developer" 
+             alt="🧠 Premium Software Engineer"/>
+    </a>
+</h4>
+
+---
 <!--<p align="left"> 
         <a href="https://www.linkedin.com/in/premiumpatel/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -26,6 +28,9 @@
 - ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**.
 
 </details>
+
+---
+
 <!--
 <div style="padding-left: 20px;">
 <details open> <summary style="font-size: 24px;"><h2>🤝 Open to Opportunities - 📫 <b>Let's get in touch</b></h2></summary>
@@ -53,7 +58,6 @@
     </h2> 
 </details>
 -->
-
 <div markdown="1" style="display: flex;">
 <details open>
     <summary><h3 align="left">📈 My Github Stats:</h3></summary>
@@ -125,6 +129,8 @@
     </div>
 </details>
 -->
+
+---
 <details>
   <summary><h3>🔧 Languages & Tools I Primarily Use</h3></summary>
   
@@ -159,6 +165,7 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
 
+---
 <details>
   <summary><h3>📌More Stats</h3></summary>
   <div style="display: flex; flex-wrap: wrap;">
