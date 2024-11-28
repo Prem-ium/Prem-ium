@@ -166,7 +166,7 @@
 
 </details>
 
-
+<!--
 ---
 <details>
   <summary><h3>📌More Stats</h3></summary>
@@ -189,5 +189,6 @@
           </details>
   </div>
 </details>
+-->
 
 <!--**Prem-ium/Prem-ium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
