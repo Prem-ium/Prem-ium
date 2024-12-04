@@ -62,9 +62,11 @@
 <div markdown="1" style="display: flex;">
 <details open>
     <summary><h3 align="left">📈 My Github Stats:</h3></summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=prem-ium&show_icons=true&theme=dark"
-        alt="prem-ium" /><!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-ium&theme=dark"
-        alt="prem-ium" />--></p>
+    <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prem-ium&show_icons=true&theme=dark" alt="prem-ium" />
+</p>
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-ium&theme=dark"
+        alt="prem-ium" />-->
 </details>
 
 <!--<details>
