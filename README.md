@@ -130,7 +130,7 @@
     </div>
 </details>
 -->
-
+<!--
 ---
 <details>
   <summary><h3>🔧 Languages & Tools I Primarily Use</h3></summary>
@@ -166,6 +166,7 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </details>
+-->
 
 <!--
 ---
