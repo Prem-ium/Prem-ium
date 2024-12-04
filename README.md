@@ -25,6 +25,7 @@
 
 - 🎓 I graduated with a Bachelor of Science in Computer Science w/ Magna Cum Laude honors.
 - 🌱 I’m currently interested in working on **Data Analysis & Visualization**.
+- 💻 My primary work involves private repositories, including those available to my `Gold` tier sponsors. 
 - ⚡ Fun fact **I love eating spicy food 🌶️ & talking about space🌌🧑‍🚀**.
 
 </details>
@@ -191,4 +192,3 @@
 </details>
 -->
 
-<!--**Prem-ium/Prem-ium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
