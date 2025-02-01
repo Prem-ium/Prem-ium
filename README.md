@@ -3,7 +3,7 @@
         <p align="right"><a href="https://github.com/sponsors/Prem-ium" target="_blank"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AA" alt="Github Sponsor"/></a></p>
 </div>
         
-<h1 align="center">Hi there <img src="https://github.com/Prem-ium/Prem-ium/blob/main/assets/images/Hi.gif" width="40px">, I'm <i>Prem-ium</i> (Prem Patel)</h1>
+<h1 align="center">Hi there <img src="https://github.com/Prem-ium/Prem-ium/blob/main/assets/images/Hi.gif" width="40px">, I'm <i>Prem-ium</i> (Prem)</h1>
 <h4 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=1000&pause=500&color=ffffff&width=435&lines=🧠+Premium+Software+Engineer;🌟+Innovative+Problem+Solver;📈+Data+Science+Enthusiast;🔍+Analytical+Thinker;⚡+Freelance+Developer" 
