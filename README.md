@@ -12,14 +12,6 @@
 </h4>
 
 ---
-<!--<p align="left"> 
-        <a href="https://www.linkedin.com/in/premiumpatel/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="mailto:premiumcspatel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-        <a href="https://github.com/sponsors/Prem-ium" target="_blank">
-        <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AA" alt="Github Sponsor"/></a><a href="https://www.buymeacoffee.com/prem.ium" target="_blank">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
-</p>-->
 
 <details open> <summary><h3>🚀 About Me</h3></summary>
 
@@ -42,12 +34,12 @@
 <p>Need custom Python solutions? I craft bespoke scripts and projects tailored to your needs, from automation to data processing & more. Reach out via email for inquiries or estimates on commissions.</p>
     <p>
         📧 Email Me @ 
-        <a href="mailto:premiumcspatel@gmail.com" style="display: inline-block; margin: 10px; padding: 10px 20px; color: white; background-color: #007BFF; text-decoration: none; border-radius: 5px; font-size: 16px;">
-            <strong>premiumcspatel[at] gmail.com</strong>
+        <a href="mailto:premium.github@gmail.com" style="display: inline-block; margin: 10px; padding: 10px 20px; color: white; background-color: #007BFF; text-decoration: none; border-radius: 5px; font-size: 16px;">
+            <strong>premium.github [at] gmail.com</strong>
         </a>
     </p>
     <p>
-        <a href="mailto:premiumcspatel@gmail.com">
+        <a href="mailto:premium.github@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
         </a>
     </p>
